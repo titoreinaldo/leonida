@@ -1,0 +1,23 @@
+selected NVIDIA GeForce RTX 3070, vendor 10de, device 2484, driver 0x98960000
+cs_ms_2d float: 32/32 matching four-word texels
+cs_ms_2d uint: 32/32 matching four-word texels
+cs_ms_2d sint: 32/32 matching four-word texels
+cs_ms_2d_a16 float: 32/32 matching four-word texels
+cs_ms_2d_a16 uint: 32/32 matching four-word texels
+cs_ms_2d_a16 sint: 32/32 matching four-word texels
+cs_ms_2d_a16_d16 float: 32/32 matching four-word texels
+cs_ms_2d_a16_d16 uint: 32/32 matching four-word texels
+cs_ms_2d_a16_d16 sint: 32/32 matching four-word texels
+cs_ms_array float: 32/32 matching four-word texels
+cs_ms_array uint: 32/32 matching four-word texels
+cs_ms_array sint: 32/32 matching four-word texels
+cs_ms_array_a16 float: 32/32 matching four-word texels
+cs_ms_array_a16 uint: 32/32 matching four-word texels
+cs_ms_array_a16 sint: 32/32 matching four-word texels
+cs_ms_array_d16 float: 32/32 matching four-word texels
+cs_ms_array_d16 uint: 32/32 matching four-word texels
+cs_ms_array_d16 sint: 32/32 matching four-word texels
+cs_ms_array_zero float: 8/32 matching four-word texels (expected negative control)
+cs_ms_array_zero uint: 8/32 matching four-word texels (expected negative control)
+cs_ms_array_zero sint: 8/32 matching four-word texels (expected negative control)
+validation errors: 0
